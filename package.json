@@ -1,0 +1,29 @@
+{
+  "name": "mongo-practice",
+  "version": "1.0.0",
+  "description": "Practice building web applications with MongoDB and the Mongoose driver for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccabo1/mongo-practice.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Mongo",
+    "Mongoose",
+    "Node"
+  ],
+  "author": "Cameron Cabo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ccabo1/mongo-practice/issues"
+  },
+  "homepage": "https://github.com/ccabo1/mongo-practice#readme",
+  "dependencies": {
+    "mongodb": "^2.2.29",
+    "mongoose": "^4.11.1"
+  }
+}
